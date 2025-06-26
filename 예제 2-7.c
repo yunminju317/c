@@ -4,7 +4,7 @@ int main(void)
 {
 	printf("%c\n", 'A');
 	printf("%s\n", "A");
-	printf("%cÀº %sÀÔ´Ï´Ù. \n", '1', "first");
+	printf("%cì€ %sì…ë‹ˆë‹¤. \n", '1', "first");
 
 	return 0;
 }
