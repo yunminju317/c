@@ -13,11 +13,11 @@ int main(void)
 	da = 3.5;
 	ch = 'A';
 
-	printf("º¯¼ö aÀÇ °ª : %d\n", a);
-	printf("º¯¼ö bÀÇ °ª : %d\n", b);
-	printf("º¯¼ö cÀÇ °ª : %d\n", c);
-	printf("º¯¼ö dadml rkqt : %.1lf\n", da);
-	printf("º¯¼ö chÀÇ °ª : %c\n", ch);
+	printf("ë³€ìˆ˜ aì˜ ê°’ : %d\n", a);
+	printf("ë³€ìˆ˜ bì˜ ê°’ : %d\n", b);
+	printf("ë³€ìˆ˜ cì˜ ê°’ : %d\n", c);
+	printf("ë³€ìˆ˜ dadml rkqt : %.1lf\n", da);
+	printf("ë³€ìˆ˜ chì˜ ê°’ : %c\n", ch);
 
 	return 0;
 }
